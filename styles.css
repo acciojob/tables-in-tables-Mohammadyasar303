@@ -1,2 +1,10 @@
-
 /* Your CSS Code here. */
+table, td, th, tr{
+	border:1px solid black;
+	text-align:center;
+}
+
+#td-t4{
+	color:white;
+	background-color:black;
+}
